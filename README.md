@@ -8,3 +8,5 @@ Now, we offer free and public access to our dataset, please feel free to use our
 
 Please find the agreement below：
 https://github.com/HunanUniversityZhuXiao/PrivateCarTrajectoryData/blob/master/Trajectory-data-license-v3.pdf
+
+For details of our research, please refer to https://zhuxiao-hnu.github.io/en/
