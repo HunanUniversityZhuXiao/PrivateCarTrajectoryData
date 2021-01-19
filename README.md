@@ -6,6 +6,8 @@ Remarks：The process of trajectory collection and data transmission is purely a
 
 Now, we offer free and public access to our dataset, please feel free to use our data on nonprofit, scientific purposes. If you would like to access the data, please sign the agreement  and send a scanned copy to us via zhxiao@hnu.edu.cn. In 14 working days, we will send you our dataset as well as the Python code packet. The ‘ReadMe.doc’ in the packet gives a detailed instruction of the Python code to run the  algorithm based on our private car trajectory dataset.
 
+Indeed, our trajecotory dataset has received wide interests both from the industry and academic. At present, in response to the requests on the data, we have shared the vehicle trajectory dataset to more than 20 institutes around the world. We are happy to see that our vehicle trajectory data can promote the researches and applications in driving behavior analysis, collision avoidance systems, intelligent transportation systems, usage based insurance (UBI), urban planning etc.
+
 Please find the agreement below：
 https://github.com/HunanUniversityZhuXiao/PrivateCarTrajectoryData/blob/master/Trajectory-data-license-v3.pdf
 
