@@ -10,5 +10,6 @@ Indeed, our trajecotory dataset has received wide interests both from the indust
 
 Please find the agreement below：
 https://github.com/HunanUniversityZhuXiao/PrivateCarTrajectoryData/blob/master/Trajectory-data-license-v3.pdf
+If you are unable to download the agreement, please send the request to us via zhxiao@hnu.edu.cn. 
 
 For details of our research, please refer to https://zhuxiao-hnu.github.io/en/
