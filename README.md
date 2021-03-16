@@ -12,5 +12,11 @@ Please find the agreement below：
 https://github.com/HunanUniversityZhuXiao/PrivateCarTrajectoryData/blob/master/Trajectory-data-license-v3.pdf
 
 If you are unable to download the agreement, please send the request to us via zhxiao@hnu.edu.cn. 
-
 For details of our research, please refer to https://zhuxiao-hnu.github.io/en/
+
+At present, Zhejiang Lab has established a cooperative relationship with Hunan University, shared and uploading various datasets, including the private car trajectory data, bicycle trajectory data and data on disease transmission. We welcome to apply, together engaged in data mining and data analysis related academic research.
+
+Please contact Dr. Hongyang Chen for details.
+
+hongyang@zhejianglab.com
+https://jp.linkedin.com/in/hongyangchen
