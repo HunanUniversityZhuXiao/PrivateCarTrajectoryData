@@ -18,5 +18,6 @@ At present, Zhejiang Lab has established a cooperative relationship with Hunan U
 
 Please contact Dr. Hongyang Chen for details.
 
-hongyang@zhejianglab.com
-https://jp.linkedin.com/in/hongyangchen
+hongyang@zhejianglab.com. 
+
+For details, please refer tohttps://jp.linkedin.com/in/hongyangchen
