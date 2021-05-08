@@ -1,6 +1,6 @@
 # PrivateCarTrajectoryData
 
-We appreciate your interests in the private car trajectory dataset collected through our algorithms and devices. 
+1） We appreciate your interests in the private car trajectory dataset collected through our algorithms and devices. 
 
 Remarks：The process of trajectory collection and data transmission is purely anonymous. Specifically, it is not to collect any personal information regarding the vehicles (the vehicle ID has been anonymized as a bit string) as well as the drivers. For the collection of the trajectory dataset, we ensure that the users have well understood the process of the data collection. In other words, the usage of data collection devices is entirely up to the users and they are fully aware of the processing of trajectory collection. We have received the approval from the users before we install devices on their vehicles. In addition, they gave their consent to educational institutions to study and use their data for research purposes.
 
@@ -14,8 +14,24 @@ https://github.com/HunanUniversityZhuXiao/PrivateCarTrajectoryData/blob/master/T
 If you are unable to download the agreement, please send the request to us via zhxiao@hnu.edu.cn. 
 For details of our research, please refer to https://zhuxiao-hnu.github.io/en/
 
-At present, Zhejiang Lab has established a cooperative relationship with Hunan University, shared and uploading various datasets, including the private car trajectory data, bicycle trajectory data and data on disease transmission. We welcome to apply, together engaged in data mining and data analysis related academic research.
+2） At present, Zhejiang Lab has established a cooperative relationship with Hunan University, shared and uploading various datasets, including the private car trajectory data, bicycle trajectory data and data on disease transmission. We welcome to apply, together engaged in data mining and data analysis related academic research.
 
 Please contact Dr. Hongyang Chen via hongyang@zhejianglab.com  
 
 For details, please refer to https://jp.linkedin.com/in/hongyangchen
+
+3） Here is our Instagram dataset regarding the Coronavirus content published during the first wave of the pandemic in 2020 (https://arxiv.org/abs/2004.12226). This is the download link (raw data) available in Google Drive.
+https://drive.google.com/file/d/1sXebQD-5eFWQlg4Vst8baWzj4g-orCEc/view?usp=drivesdk
+Instruction:
+There are three python pkl files (post/comment/like) and a Jupyter Notebook Document to read the dataset as Pandas Dataframe. Images are stored in binary format. 
+The second release is coming soon.
+
+Please contact Prof. Noël Crespi for details. 
+Noël Crespi， Professor
+Head of Data Intelligence and Communication Engineering Laboratory
+Telecom SudParis,
+Institut Polytechnique de Paris
+9 rue C. Fourier, 91011 Evry, France,  +33 160 76 46 23
+https://dice.wp.telecom-sudparis.eu/
+
+
