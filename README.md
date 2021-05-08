@@ -27,6 +27,7 @@ There are three python pkl files (post/comment/like) and a Jupyter Notebook Docu
 The second release is coming soon.
 
 Please contact Prof. Noël Crespi for details. 
+
 Noël Crespi， Professor
 Head of Data Intelligence and Communication Engineering Laboratory
 Telecom SudParis,
