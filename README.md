@@ -1,6 +1,8 @@
-# PrivateCarTrajectoryData
+# Vehicle Trajectory Datasets for ITS, Smart city, and mobile crowdsensing
 
-1） We appreciate your interests in the private car trajectory dataset collected through our algorithms and devices. 
+We appreciate your interests in the datasets, which contain various categories of data. Please see details below.
+
+1） Large-scale private car trajectory dataset collected through our algorithms and devices. 
 
 Remarks：The process of trajectory collection and data transmission is purely anonymous. Specifically, it is not to collect any personal information regarding the vehicles (the vehicle ID has been anonymized as a bit string) as well as the drivers. For the collection of the trajectory dataset, we ensure that the users have well understood the process of the data collection. In other words, the usage of data collection devices is entirely up to the users and they are fully aware of the processing of trajectory collection. We have received the approval from the users before we install devices on their vehicles. In addition, they gave their consent to educational institutions to study and use their data for research purposes.
 
@@ -28,7 +30,7 @@ The second release is coming soon.
 
 Please contact Prof. Noël Crespi for details. 
 
-Noël Crespi， Professor
+Noël Crespi, Professor
 Head of Data Intelligence and Communication Engineering Laboratory
 Telecom SudParis,
 Institut Polytechnique de Paris
