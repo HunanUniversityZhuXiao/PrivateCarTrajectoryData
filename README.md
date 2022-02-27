@@ -1,4 +1,4 @@
-# Vehicle Trajectory Datasets for ITS, Smart city, and mobile crowdsensing
+# Vehicle Trajectory Datasets for ITS, smart city, and mobile crowdsensing
 
 We appreciate your interests in the datasets, which contain various categories of data. Please see details below.
 
